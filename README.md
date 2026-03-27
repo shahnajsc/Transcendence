@@ -188,7 +188,6 @@ I faced many challenges during this project, here are the major ones listed:
 # Resources
 
 ### Backend
-
 - [Fastify](https://fastify.dev/docs/latest/Guides/)
 - [Node.js](https://nodejs.org/docs/latest/api/)
 - [TypeScript](https://www.typescriptlang.org/docs/)
@@ -199,7 +198,6 @@ I faced many challenges during this project, here are the major ones listed:
 - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies)
 
 ### Frontend
-FILL FRONTEND REFERENCES HERE
 - [React](https://react.dev/versions)
 - [TypeScript](https://react.dev/learn/typescript)
 - [TailwindCSS](https://v2.tailwindcss.com/docs)
